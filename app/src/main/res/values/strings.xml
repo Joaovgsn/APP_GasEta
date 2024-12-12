@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">appgaseta</string>
+    <string name="txt_titulo">Gasolina x Etanol</string>
+    <string name="txt_resultado">RESULTADO</string>
+    <string name="txt_gasolina">R$ Gasolina</string>
+    <string name="txt_hint_edit_telefone_de_contato">Telefone de Contato</string>
+    <string name="txt_hint_edit_nome_do_curso_desejado">Nome do Curso Desejado</string>
+    <string name="txt_etanol">R$ Etanol</string>
+    <string name="txt_button_limpar">Limpar</string>
+    <string name="txt_button_salvar">Salvar</string>
+    <string name="txt_button_finalizar">Finalizar</string>
+    <string name="appgaseta" />
+    <string name="calcular">Calcular</string>
+    <string name="resultado">RESULTADO</string>
+</resources>
